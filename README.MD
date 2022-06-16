@@ -2,9 +2,9 @@
 
 La app de PP3 del IFTS18
 
-https://github.com/melisacruzmartinez/REVIEW/blob/master/mockups/Android%20Large%20-%208.svg
-https://github.com/melisacruzmartinez/REVIEW/blob/master/mockups/Android%20Large%20-%204.svg
-https://github.com/melisacruzmartinez/REVIEW/blob/master/mockups/Android%20Large%20-%207.svg
+![Ver y comentar consultas con otros usuario](https://github.com/melisacruzmartinez/REVIEW/blob/master/mockups/Android%20Large%20-%208.svg)
+![Subir una nueva consulta](https://github.com/melisacruzmartinez/REVIEW/blob/master/mockups/Android%20Large%20-%204.svg)
+![Buscador](https://github.com/melisacruzmartinez/REVIEW/blob/master/mockups/Android%20Large%20-%207.svg)
 
 ## Anteproyecto
 El anteproyecto está definido en este [documento](https://drive.google.com/file/d/1Q5r5FGhIThLuQWHgP8PUJBMrcCf5U7cl/view?usp=sharing).
